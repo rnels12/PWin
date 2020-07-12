@@ -1,7 +1,7 @@
 # PWin
 A pymatgen wrapper to create an pwscf (QE) input file from materialsproject.org
 
-The code is written in python3.7 and you need to sign up for an materialsproject.org acoount.
+The code is written in python3.7 and you need to sign up for an materialsproject.org account.
 
 To run the code:
 
